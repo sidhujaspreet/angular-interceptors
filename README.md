@@ -1,2 +1,2 @@
 # angular-interceptors
-Usage of http interceptors and ui-router
+Usage of http interceptors, run block, ui-router in config block. 
